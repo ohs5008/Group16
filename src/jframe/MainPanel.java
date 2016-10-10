@@ -26,6 +26,9 @@ public class MainPanel extends JPanel{
         
     JButton danButton = new JButton("Dan");
     add(danButton);
-        
+    
+    
+    JButton DhakaButton = new JButton("Dhaka");
+    add(DhakaButton);
     }
 }
